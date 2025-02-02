@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **amoghkshirsagar/amoghkshirsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### AmoghKshirsagar
+
+**Languages and Tools:**  
+
+<a href="https://github.com/amoghkshirsagar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghkshirsagar&theme=transparent&count_private=true&layout=compact" alt="amoghkshirsagar's most used languages" />
+</a>
+<a href="https://github.com/amoghkshirsagar">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=amoghkshirsagar&show_icons=true&theme=transparent&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="amoghkshirsagar's github stats"/>
+</a>
